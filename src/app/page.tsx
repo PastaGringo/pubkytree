@@ -62,7 +62,7 @@ export default function HomePage() {
             <span className="text-xl font-bold gradient-text">PubkyTree</span>
           </div>
           <a
-            href="https://github.com/pubky/pubky-core"
+            href="https://github.com/PastaGringo/pubkytree"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors"
